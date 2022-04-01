@@ -1,14 +1,13 @@
-### Hi there 👋
+### Hay There :wave:
 
-![](https://visitor-badge.glitch.me/badge?page_id=celvineadiputra-dev.celvineadiputra-dev)
-<!--
+
+
 ### Hay, Nice To Meet You
-Hey, nice to meet you, I’m Roymond Chandra Pradana, but people here call me Roymond. I grew up in Indonesia, and I can speak Indonesia and a little bit of English. I love to code and design. For my profile and what I work on, you can visit this website for more details about me  <a href="#">blabalblal</a>.
-
+Hey, nice to meet you, I’m Roymond Chandra Pradana, but people here call me Remon. I grew up in Indonesia, and I can speak Indonesia and a little bit of English. I love to code and design. For my profile and what I work on, you can visit this website for more details about me  <a href="#"> belumada</a>.
 ## :footprints: I am an ordinary web designer and web developer.
 
-//<img src="https://github-readme-stats.vercel.app/api?username=celvineadiputra-dev&show_icons=true&theme=radical" alt="celvine" />
-//<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celvineadiputra-dev&theme=radical&layout=compact&langs_count=10"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=celvineadiputra-dev&show_icons=true&theme=radical" alt="celvine" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celvineadiputra-dev&theme=radical&layout=compact&langs_count=10"/> -->
 
 ## 🔥 Technologies & Tools
 
@@ -17,7 +16,6 @@ Hey, nice to meet you, I’m Roymond Chandra Pradana, but people here call me Ro
   <img src="images/Vue.svg" width="64px" height="64px" alt="VueJs"/>
   <img src="images/React.svg" width="64px" height="64px" alt="ReactJs"/>
   <img src="images/Css.svg" width="64px" height="64px" alt="Css"/>
-  <img src="images/Sass.svg" width="64px" height="64px" alt="Sass"/>
   <img src="images/Bootstrap.svg" width="64px" height="64px" alt="Bootrap"/>
   <img src="images/Tailwindcss.svg" width="64px" height="64px" alt="TailwindCss"/>
   <img src="images/Php.svg" width="64px" height="64px" alt="PHP"/>
@@ -25,19 +23,10 @@ Hey, nice to meet you, I’m Roymond Chandra Pradana, but people here call me Ro
   <img src="images/Composer.svg" width="64px" height="64px" alt="Composer"/>
   <img src="images/Xampp.svg" width="64px" height="64px" alt="xampp"/>
   <img src="images/Node.svg" width="64px" height="64px" alt="NodeJs"/>
-  <img src="images/Express.svg" width="64px" height="64px" alt="ExpressJs"/>
   <img src="images/Mysql.svg" width="64px" height="64px" alt="Mysql"/>
-  <img src="images/Dart.svg" width="64px" height="64px" alt="Dart"/>
-  <img src="images/Flutter.svg" width="64px" height="64px" alt="Flutter"/>
-  <img src="images/JetpackCompose.svg" width="64px" height="64px" alt="JetPackCompose"/>
-  <img src="images/Postman.svg" width="64px" height="64px" alt="MongoDb"/>
   <img src="images/Python.svg" width="64px" height="64px" alt="Python"/>
   <!-- <img src="images/Mongo.svg" width="64px" height="64px" alt="MongoDb"/> -->
   <img src="images/Figma.svg" width="64px" height="64px" alt="MongoDb"/>
   <!-- <img src="images/XD.svg" width="64px" height="64px" alt="MongoDb"/> -->
 </div>
 
-## 🌿 App Link Demo [Mobile]
-| **Number** |   **App Name**   | **Techonlogy** |                              **Repository**                              |                                                        **Demo**                                                       |
-|:----------:|:----------------:|:--------------:|:------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-| 1          | Travel Nusantara | Flutter 2.10.3 | <a href="https://github.com/celvineadiputra-dev/travel-nusantara">Go</a> | <a href="https://drive.google.com/file/d/1JSEmc6CuyaQ2xIoDg3ccBSQ3sFisMEQX/view?usp=sharing">Download Android App</a> |
