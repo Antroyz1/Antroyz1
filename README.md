@@ -20,7 +20,6 @@ Hey, nice to meet you, I’m Roymond Chandra Pradana, but people here call me Re
   <img src="images/Tailwindcss.svg" width="64px" height="64px" alt="TailwindCss"/>
   <img src="images/Php.svg" width="64px" height="64px" alt="PHP"/>
   <img src="images/Laravel.svg" width="64px" height="64px" alt="Laravel"/>
-  <img src="images/Composer.svg" width="64px" height="64px" alt="Composer"/>
   <img src="images/Xampp.svg" width="64px" height="64px" alt="xampp"/>
   <img src="images/Node.svg" width="64px" height="64px" alt="NodeJs"/>
   <img src="images/Mysql.svg" width="64px" height="64px" alt="Mysql"/>
