@@ -13,8 +13,8 @@ Hey, nice to meet you, I’m Roymond Chandra Pradana, but people here call me Re
 
 <div>
   <img src="images/JS.svg" width="64px" height="64px" alt="JavaScript"/>
-  <img src="images/Vue.svg" width="64px" height="64px" alt="VueJs"/>
-  <img src="images/React.svg" width="64px" height="64px" alt="ReactJs"/>
+  <!-- <img src="images/Vue.svg" width="64px" height="64px" alt="VueJs"/> -->
+  <!-- <img src="images/React.svg" width="64px" height="64px" alt="ReactJs"/> -->
   <img src="images/Css.svg" width="64px" height="64px" alt="Css"/>
   <img src="images/Bootstrap.svg" width="64px" height="64px" alt="Bootrap"/>
   <img src="images/Tailwindcss.svg" width="64px" height="64px" alt="TailwindCss"/>
